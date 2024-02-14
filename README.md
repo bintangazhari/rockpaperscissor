@@ -1,6 +1,4 @@
-This is an image classification project from IDCamp
-
-The purpose of this project is to classify the image into rock, scissor, or paper group.
+This is an image classification to classify images into rock, scissor, or paper group.
 The dataset is taken from:
 https://github.com/DrGFreeman/rps-cv
 
